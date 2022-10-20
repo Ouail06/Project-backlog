@@ -1,7 +1,5 @@
 body{
     background-color: gray;
-    width: 100%;
-    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
 }
@@ -9,16 +7,10 @@ header{
     position: sticky;
     top: 0px;
 }
-img{
-    z-index: -1;
-    float: left;
-    width: 1000px;
-    height: 600px;
-    margin-bottom: 100px;
-}
 nav {
     display: flex;
     flex-direction: row;
+    
 }
  nav ul{
   display: flex;
