@@ -1,0 +1,55 @@
+    h1{
+    text-align: center;
+    }
+
+    img {
+    max-width: 50%;
+    height: auto;
+    }
+
+    body{
+        background-color: gray;
+    }
+
+    
+    hr {
+    border: 1px solid black;}
+
+    p{font-size: 20px;}
+    nav {
+        display: flex;
+        flex-direction: row;
+    }
+    
+     nav ul{
+      display: flex;
+      flex-direction: row;
+      float: left;
+     }
+    
+       
+    
+     nav ul {
+        list-style-type: none;
+         margin: 0;
+         padding: 0;
+         overflow: hidden;
+          background-color: #333;
+        }
+    
+       nav li a{
+            display: block;
+            color: white;    
+            text-align: center;  
+            padding: 25px 50px;    
+            text-decoration: none; 
+          }
+    
+         nav li a:hover {
+            background-color: forestgreen;
+          }
+   
+          header {
+                position: fixed;
+                top: 0px;
+            }

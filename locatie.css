@@ -1,15 +1,6 @@
-h1 {color: black;
-text-align: center;}
-
-body {background-color: gray;}
-
-hr { border: 1px solid black;}
-
-p{font-size: 20px;}
-
-#basket{width: 730px;}
-#gamen{width: 730px;
-height: 488px;}
+body{
+    background-color: grey;
+}
 
 nav {
     display: flex;
