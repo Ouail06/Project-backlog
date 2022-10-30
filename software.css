@@ -37,4 +37,17 @@ nav {
      nav li a:hover {
         background-color: forestgreen;
       }
-
+img{
+    float: right;
+    width: 400px;
+    height: 350px;
+    margin-bottom: 100px;
+}
+#linkj{
+    text-decoration: none;
+    color: lightgreen;
+}
+#linkj a:hover{
+    background-color: aqua;
+    border-radius: 5px;
+}
