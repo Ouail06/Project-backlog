@@ -93,9 +93,10 @@ body{
        
       }
       form{
+        margin-top: 20px;
         margin-left: 500px;
-        background-color: rgb(217, 204, 204);
         width: 400px;
+        background-color: gray;
         position: fixed;
       }
       label{
