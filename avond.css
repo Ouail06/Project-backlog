@@ -46,9 +46,9 @@ body{
        }
  
        img{
-         margin-top: -350px;
+         
          z-index: -1;
-         float: right;
+         margin-left: 300px;
        }
  
      
@@ -91,6 +91,15 @@ body{
        }
        
        
+      }
+      form{
+        margin-left: 500px;
+        background-color: rgb(217, 204, 204);
+        width: 400px;
+        position: fixed;
+      }
+      label{
+        text-align: center;
       }
       
  

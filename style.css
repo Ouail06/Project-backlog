@@ -44,20 +44,22 @@ nav {
       }
 
       img{
-        width: 100%;
+        width: 600px;
         z-index: -1;
-
+        margin-top: -5px;
       }
 
     
       a{
         color: white;
       }
+
       
       .linkje{
-      display: block;
+      position: fixed;
       padding-top: 50px;
       padding-left: 400px;
+      margin-right: 600px;
       }
 
       .linkje a {
